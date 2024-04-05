@@ -4,15 +4,15 @@ YouTube Data Harvesting and Warehousing is a project aimed at developing a user-
 
 Table of Contents
 
-Key Technologies and Skills
-Installation
-Usage
-Features
-Retrieving data from the YouTube API
-Storing data in MySQL
-Visualizing Datas Using Matplotlib,Seaborn and Plotly
-Data Analysis
-User InterFace
+Key Technologies and Skills,
+Installation,
+Usage,
+Features,
+Retrieving data from the YouTube API,
+Storing data in MySQL,
+Visualizing Datas Using Matplotlib,Seaborn and Plotly,
+Data Analysis,
+User InterFace,
 Contact
 
 Key Technologies and Skills
